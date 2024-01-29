@@ -10,4 +10,4 @@ function EditInventoryForm({ item }) {
   );
 }
 
-export default EditInventoryForm;
+export default EditInventoryFor
